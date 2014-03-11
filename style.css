@@ -1,0 +1,16 @@
+/*
+Theme Name: Jodie Joe Music
+Theme URI: http://wordpress.org
+Author: Spencer Woods
+Author URI: http://fifthlinkdesigns.com
+Description: Fan website to promote music for Jodie Joe.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: dark, red, two-columns, right-sidebar, flexible-width, post-formats, threaded-comments
+
+*/
+
+html.desktop {
+	margin-top: 0 !important;
+}
